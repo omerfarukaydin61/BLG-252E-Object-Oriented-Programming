@@ -1,0 +1,6 @@
+﻿  main.cpp
+  university.cpp
+C:\Users\omerfarukaydin\Desktop\BLG 252E - Object Oriented Programming - 23135\HOMEWORK\HW_1\VS_BLG252E_HW1\main\university.cpp(32,119): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerfarukaydin\Desktop\BLG 252E - Object Oriented Programming - 23135\HOMEWORK\HW_1\VS_BLG252E_HW1\main\university.cpp(46,119): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  main.vcxproj -> C:\Users\omerfarukaydin\Desktop\BLG 252E - Object Oriented Programming - 23135\HOMEWORK\HW_1\VS_BLG252E_HW1\x64\Debug\main.exe

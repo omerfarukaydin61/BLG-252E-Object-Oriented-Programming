@@ -1,0 +1,5 @@
+﻿  arena.cpp
+  psychicPokemon.cpp
+C:\Users\omerfarukaydin\source\repos\BLG252E_HW3\main\psychicPokemon.cpp(11,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  main.vcxproj -> C:\Users\omerfarukaydin\source\repos\BLG252E_HW3\x64\Debug\main.exe
